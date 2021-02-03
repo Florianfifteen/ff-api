@@ -1,0 +1,22 @@
+{
+    "equipes": [
+        {
+            "id":1,
+            "nom":"PSG",
+            "ville":"Paris",
+        },
+        {
+            "id":2,
+            "nom":"CalaisFC",
+            "ville":"Calais",
+        }
+    ],
+    "Joueurs": [
+        {
+            "id": 1,
+            "nom": "Neymar",
+            "poste": "AG"
+            
+        }
+    ]
+}
